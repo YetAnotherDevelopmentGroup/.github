@@ -5,6 +5,7 @@
 - [hannah](https://github.com/ZegLolTheThirtySixth)
 - [boeing 747](https://github.com/notboeing747)
 - [kelsea](https://github.com/kelpseasteam)
+- [scaratek](https://github.com/entripix)
 
 ## projects:
 - YAUE: Yet Another Unenrollemnt Exploit, writeup [here](https://github.com/YetAnotherDevelopmentExploit/YAUE)
